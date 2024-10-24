@@ -33,6 +33,5 @@ export async function greeter(name: string) {
 }
 
 export function outraFunc() {
-  const a = 1;
-  return a;
+  return 1;
 }
